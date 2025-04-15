@@ -1,6 +1,8 @@
 # 🐍 Snake Game en Windows Forms con Sonido y Puntuación
 
-![image](https://github.com/user-attachments/assets/5fc47bec-166a-4d6f-b3f1-656c882a3759)
+![image](https://github.com/user-attachments/assets/3e6c47b5-6d74-45d5-9b17-26131f298034)
+
+![image](https://github.com/user-attachments/assets/eebd4d13-91ed-4ade-95e6-744e10892458)
 
 ## 🎯 Crear el Proyecto
 
